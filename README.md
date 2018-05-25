@@ -14,6 +14,8 @@
 |   Setting    | [点此进入](https://github.com/shumin117/AndroidProject/tree/master/Setting) |
 |    实验六    |                                                              |
 |    Intent    | [点此进入](https://github.com/shumin117/AndroidProject/tree/master/Intent) |
+|   期中实验   |                                                              |
+|   NotePad    | [点此进入](https://github.com/shumin117/AndroidProject/tree/master/NotePad) |
 
 
 
